@@ -34,7 +34,7 @@
 						<a href="">PRIVACY POLICY</a>
 					</li>
 				</ul>
-				<p class="copyright-text">Copyright &copy;2022, Designed &amp; Safa'& Marah.</p>
+				<p class="copyright-text">Copyright &copy;2022, Designed &amp; Safa'.</p>
 			</div>
 		</div>
 	</div>
