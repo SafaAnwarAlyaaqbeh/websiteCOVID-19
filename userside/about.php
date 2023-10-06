@@ -66,13 +66,7 @@ session_start();
 				
 				</div>
 			</div>
-			<div class="col-lg-4">
-				<div class="team-member text-center">
-					<img class="img-circle" src="images/team/team-3.jpg">
-					<h4>Marah Malkawi</h4>
-					
-				</div>
-			</div>
+			
 			
 		</div>
 	</div>
